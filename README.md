@@ -6,9 +6,13 @@ number of films. He himself once spoke out that everyone in Hollywood had either
 
 To analyze the large IMDB datasets and make the volume manageable for our machines, we performed the following data cleansing activities:
 ❏ All not relevant attributes were removed.
+
 ❏ Only 'movie' and 'tvMovie' types were included, and other sypes, such as for example ‘videoGame’ and ‘tv series’, were excluded.
+
 ❏ Only categories ‘actor’ and ‘actress’ were included, while other categories (e.g. ‘director’, ‘producer’) were excluded from our dataset.
+
 ❏ Since the resulting network was still too large, we focused on the last decade: from the year 2010 to year 2020.
+
 ❏ Additionally we filtered for movies with IMDB ranking above 8.5 and number of voters more than 1000 (mean number of voters across the network is 960).
 
 
