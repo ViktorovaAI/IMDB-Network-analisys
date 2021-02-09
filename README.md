@@ -1,6 +1,6 @@
 # IMDB-Network-analisys
 
-This package contains the code and data for homework "Analysing Networks" prepared by A. Viktorova, D. Williams.
+This package contains the code for homework "Analysing Networks" prepared by A. Viktorova, D. Williams.
 
 
 Is Kevin Bacon the center of the IMDB-Network?
