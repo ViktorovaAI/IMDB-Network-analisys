@@ -1,4 +1,8 @@
 # IMDB-Network-analisys
+
+This package contains the code and data for homework "Analysing Networks" prepared by A. Viktorova, D. Williams.
+
+
 Is Kevin Bacon the center of the IMDB-Network?
 
 Kevin Bacon is a very popular American actor, who starred in an unreasonably large
